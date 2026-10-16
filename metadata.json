@@ -1,0 +1,6 @@
+{
+  "name": "Aide Mobile Afrique",
+  "description": "Le média technologique pratique de référence pour smartphones Android, forfaits internet, WhatsApp et Mobile Money en Afrique francophone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
