@@ -25,7 +25,7 @@ export interface AdNetworkConfig {
 }
 
 export const ADS_CONFIG: AdNetworkConfig = {
-  provider: 'simulation',
+  provider: 'adsterra',
   adsense: {
     client: '', // Insérez votre identifiant éditeur AdSense ici
     slots: {
@@ -36,7 +36,7 @@ export const ADS_CONFIG: AdNetworkConfig = {
     }
   },
   adsterra: {
-    keyTopBanner: '',
+    keyTopBanner: 'cdd942684a7ba8f11137b2560898d082',
     keyMidArticle: '',
     keyBottomArticle: ''
   }
